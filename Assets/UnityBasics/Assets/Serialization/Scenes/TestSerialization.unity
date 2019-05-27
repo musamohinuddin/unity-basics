@@ -238,3 +238,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   exampleSerialzedInt: 20
+  testSerializable: {fileID: 11400000, guid: 13031034be887f343afc53a18b76c644, type: 2}

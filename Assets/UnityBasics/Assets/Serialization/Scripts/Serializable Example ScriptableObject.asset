@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Serializable Example ScriptableObject
   m_EditorClassIdentifier: 
   serialzableClass:
-    exampleSerializedInt: 0
+    exampleSerializedInt: 879789
