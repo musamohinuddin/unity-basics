@@ -17,7 +17,7 @@ namespace Loading_Test
     {
         string text;
         string filepath = "Assets/UnityBasics/Assets/StreamingAssets/TestTextDoc.txt";
-        string path = "E:/Dev/Home_Dev/UnityBasicsModule/Assets/UnityBasics/Assets/StreamingAssets/TestTexture.jpg";
+        string path = "E:/Dev/Home_Dev/UnityBasicsModule/Assets/UnityBasics/Assets/StreamingAssets/TestTexture.jpg"; //Absolute Path only
         Texture2D texture;
         GameObject testGO;
         void Start()
