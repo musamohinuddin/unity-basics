@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace Loading_Test
 {
-    public class TestResourceLoader : MonoBehaviour
+    public class TestLoader : MonoBehaviour
     {
         string text;
         string path = "Assets/UnityBasics/Assets/StreamingAssets/TestTextDoc.txt";        
