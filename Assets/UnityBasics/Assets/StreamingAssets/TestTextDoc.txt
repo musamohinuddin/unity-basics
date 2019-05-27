@@ -1,1 +1,1 @@
-This is a test file in resources folder
+This is a text file in Streaming Assets folder
