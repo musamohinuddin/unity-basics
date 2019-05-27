@@ -25,8 +25,6 @@ namespace Coroutines_Test
 
         private void Update()
         {
-
-
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 canShow = !canShow;
